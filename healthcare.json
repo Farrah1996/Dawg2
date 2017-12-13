@@ -1,0 +1,55 @@
+{ 
+    "_id" : ObjectId("5a3058751e5ae666894b0a8a"), 
+    "first_name" : "Mary", 
+    "last_name" : "Gallen", 
+    "email" : "MaryG@live.ie", 
+    "phone_number" : 8312886500.0, 
+    "age" : 69.0, 
+    "occupation" : "Retired", 
+    "medical_condition" : "Cancer", 
+    "quote" : 150.0
+}
+{ 
+    "_id" : ObjectId("5a3058af1e5ae666894b0a8b"), 
+    "first_name" : "Joel", 
+    "last_name" : "Bradley", 
+    "email" : "Joel@live.com", 
+    "phone_number" : 84566891.0, 
+    "age" : 15.0, 
+    "occupation" : "none", 
+    "medical_condition" : "none", 
+    "quote" : 100.0
+}
+{ 
+    "_id" : ObjectId("5a3058f11e5ae666894b0a8c"), 
+    "first_name" : "Harry", 
+    "last_name" : "Doherty", 
+    "email" : "HarryD@gmail.com", 
+    "phone_number" : 9659475.0, 
+    "age" : 43.0, 
+    "occupation" : "construction", 
+    "medical_condition" : "aids", 
+    "quote" : 140.0
+}
+{ 
+    "_id" : ObjectId("5a3059281e5ae666894b0a8d"), 
+    "first_name" : "Mary", 
+    "last_name" : "Pin", 
+    "email" : "MaryPin@gmail.com", 
+    "phone_number" : 775839994.0, 
+    "age" : 23.0, 
+    "occupation" : "nurse", 
+    "medical_condition" : "Disease", 
+    "quote" : 130.0
+}
+{ 
+    "_id" : ObjectId("5a3059631e5ae666894b0a8e"), 
+    "first_name" : "Macey", 
+    "last_name" : "Carr", 
+    "email" : "Maceykno@gmail.com", 
+    "phone_number" : 133359836.0, 
+    "age" : 32.0, 
+    "occupation" : "Formula1 Driver", 
+    "medical_condition" : "None", 
+    "quote" : 120.0
+}
